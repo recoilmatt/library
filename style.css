@@ -1,0 +1,7 @@
+#book-list {
+  display: flex;
+}
+
+.card {
+  border: 1px red solid;
+}
